@@ -1,7 +1,12 @@
 /* Bashar */
 
 /* Mochi */
-
+*,
+html {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
 /* Kimberly */
 
 /* Lukas */
@@ -21,3 +26,6 @@
 /* Eudes */
 
 /* Priyanka */
+.priyanka {
+    background-color: aquamarine;
+}
